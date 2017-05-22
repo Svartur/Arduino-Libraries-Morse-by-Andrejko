@@ -1,1 +1,1 @@
-# Arduino-Libraries-Morse-by-Andrejko
+# Arduino library Morse-by-Andrejko
